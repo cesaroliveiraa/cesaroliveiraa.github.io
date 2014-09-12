@@ -1,0 +1,10 @@
+* { color: gray; }
+body { background-color: #1D3B3D; }
+.container { margin-top: 30px; }
+.row-section { margin: 30px -15px; }
+.col-white { background-color: #ffffff; }
+.contatos {
+	list-style: none;
+	padding: 0px;
+}
+.contatos li { display: inline-block; }
